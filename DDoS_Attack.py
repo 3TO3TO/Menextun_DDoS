@@ -23,7 +23,7 @@ print ('''\033[92m
 │              | |\/| |  _| |  \| |  _|  \  /  | | | | | |  \| |             │
 │              | |  | | |___| |\  | |___ /  \  | | | |_| | |\  |             │
 │              |_|  |_|_____|_| \_|_____/_/\_\ |_|  \___/|_| \_|             │
-│					                                                 		C0d3d by 3TO3TO      │
+│			                   		C0d3d by 3TO3TO      │
 │────────────────────────────────────────────────────────────────────────────│
 │                       Welcome to Menextun_DDoS Tool                        │
 └────────────────────────────────────────────────────────────────────────────┘
@@ -645,7 +645,7 @@ def main():
 	global url
 	print("> Mode: [cc/post/head/slow/check]")
 	mode = InputOption("> Choose Your Mode (default=cc) :",["cc","post","head","slow","check"],"cc")
-	url = str(input("> Input the target url:")).strip()
+	url = str(input("> Target url:")).strip()
 	prevent()
 	ParseUrl(url)
 	if mode == "post":
