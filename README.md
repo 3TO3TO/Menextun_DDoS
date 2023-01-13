@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm 3TO!</h1>
-<h3 align="center">A passionate frontend developer from Myanmar.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ppy.sh/e87e1c7b4d2e2eaa418c8c47ccc0cc9c8e403de0/68747470733a2f2f7061312e6e61727669692e636f6d2f363531302f633131623763366463333864623064633430653832383635303265623265346631636339643937395f68712e676966">
+<h1 align="center">Hi, I'm 3TO!</h1>
+<h3 align="center">A passionate frontend developer from Myanmar.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3to3to&label=Profile%20views&color=0e75b6&style=flat" alt="3to3to" /> </p>
 
