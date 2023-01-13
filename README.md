@@ -1,4 +1,4 @@
-# Hello, I am 3TO!🫶🏻👽
+# Hello, I am 3TO!🫶🏻
 Team Menextun _ DDoS Tool by #3TO3TO👽
 
 - 👾Facebook: https://www.facebook.com/ViRu.Cream
